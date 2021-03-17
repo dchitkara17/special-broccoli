@@ -1,0 +1,28 @@
+ul li {
+	list-style: none;
+	font-size: 20px ;
+	font-family: arial ;
+	padding: 0 20px ;
+	display: inline-block;
+}
+
+ul{
+	display: inline-block;
+}
+
+body{
+	font-size: 30px ;
+background-color: #F0F0F0 ;
+}
+
+div {
+	background-color: #F0F0F0 ;
+}
+
+nav{ background-color: #FFFFFF ; }
+
+a{
+	text-decoration: none;
+}
+
+
